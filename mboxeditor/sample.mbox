@@ -1,0 +1,374 @@
+From ava@example.com Mon Mar 04 09:15:00 2024
+From: Ava Martin <ava@example.com>
+To: Sam Reviewer <sam@example.net>
+Subject: Project kickoff notes
+Date: Mon, 04 Mar 2024 09:15:00 +0000
+Message-ID: <sample-1@mboxeditor.example>
+X-Gmail-Labels: Inbox,Work
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 1 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Ava Martin
+
+From ben@example.org Sat Apr 20 10:15:00 2024
+From: Ben Ortiz <ben@example.org>
+To: Sam Reviewer <sam@example.net>
+Subject: Your March statement is ready
+Date: Sat, 20 Apr 2024 10:15:00 +0000
+Message-ID: <sample-2@mboxeditor.example>
+X-Gmail-Labels: Inbox,Finance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_sample1"
+
+--=_sample1
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 2 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Ben Ortiz
+
+--=_sample1
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Your March statement is ready</h2><p>Hello Sam,</p><p>This is sample message 2 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:ben</code></li><li>Filter by label <code>label:finance</code></li></ul><p>Best,<br>Ben Ortiz</p></body></html>
+--=_sample1--
+
+From news@northwind.example Thu Jun 06 11:15:00 2024
+From: Northwind Travel <news@northwind.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Weekend in Lisbon: 3 itineraries
+Date: Thu, 06 Jun 2024 11:15:00 +0000
+Message-ID: <sample-3@mboxeditor.example>
+X-Gmail-Labels: Promotions
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_sample2"
+
+--=_sample2
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 3 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Northwind Travel
+
+--=_sample2
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Weekend in Lisbon: 3 itineraries</h2><p>Hello Sam,</p><p>This is sample message 3 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:news</code></li><li>Filter by label <code>label:promotions</code></li></ul><p>Best,<br>Northwind Travel</p></body></html>
+--=_sample2--
+
+From alerts@contoso.example Tue Jul 23 12:15:00 2024
+From: Contoso Bank <alerts@contoso.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Re: Project kickoff notes
+Date: Tue, 23 Jul 2024 12:15:00 +0000
+Message-ID: <sample-4@mboxeditor.example>
+X-Gmail-Labels: Inbox,Work
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 4 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Contoso Bank
+
+From support@fabrikam.example Sun Sep 08 13:15:00 2024
+From: Fabrikam Support <support@fabrikam.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Invoice #1042
+Date: Sun, 08 Sep 2024 13:15:00 +0000
+Message-ID: <sample-5@mboxeditor.example>
+X-Gmail-Labels: Inbox,Finance
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_sample4"
+
+--=_sample4
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 5 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Fabrikam Support
+
+--=_sample4
+Content-Type: application/pdf; name="invoice-1042.pdf"
+Content-Disposition: attachment; filename="invoice-1042.pdf"
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZy9QYWdlcyAyIDAgUj4+ZW5kb2JqIDIgMCBv
+Ymo8PC9UeXBlL1BhZ2VzL0tpZHNbMyAwIFJdL0NvdW50IDE+PmVuZG9iaiAzIDAgb2JqPDwvVHlw
+ZS9QYWdlL1BhcmVudCAyIDAgUi9NZWRpYUJveFswIDAgMzAwIDE0NF0vQ29udGVudHMgNCAwIFIv
+UmVzb3VyY2VzPDwvRm9udDw8L0YxIDUgMCBSPj4+Pj4+ZW5kb2JqIDQgMCBvYmo8PC9MZW5ndGgg
+NTI+PnN0cmVhbQpCVCAvRjEgMTggVGYgMzAgNzAgVGQgKFNhbXBsZSBpbnZvaWNlICMxMDQyKSBU
+aiBFVAplbmRzdHJlYW0gZW5kb2JqIDUgMCBvYmo8PC9UeXBlL0ZvbnQvU3VidHlwZS9UeXBlMS9C
+YXNlRm9udC9IZWx2ZXRpY2E+PmVuZG9iagp0cmFpbGVyPDwvUm9vdCAxIDAgUj4+CiUlRU9GCg==
+--=_sample4--
+
+From ava@example.com Fri Oct 25 14:15:00 2024
+From: Ava Martin <ava@example.com>
+To: Sam Reviewer <sam@example.net>
+Subject: Team photo
+Date: Fri, 25 Oct 2024 14:15:00 +0000
+Message-ID: <sample-6@mboxeditor.example>
+X-Gmail-Labels: Inbox,Personal
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="=_sample5"
+
+--=_sample5
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Team photo</h2><p>Hello Sam,</p><p>This is sample message 6 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:ava</code></li><li>Filter by label <code>label:personal</code></li></ul><p>Best,<br>Ava Martin</p><p><img src="cid:photo@sample" width=120 height=120 alt="photo"></p></body></html>
+--=_sample5
+Content-Type: image/png; name="photo.png"
+Content-ID: <photo@sample>
+Content-Disposition: inline; filename="photo.png"
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAAMElEQVR4nO3NMQ0AAAgDsLlAFUrw
+/2OChKdJ/6amX0QsFovFYrFYLBaLxWKxWCy+s4kRDgy1pg/fAAAAAElFTkSuQmCC
+--=_sample5--
+
+From ben@example.org Wed Dec 11 15:15:00 2024
+From: Ben Ortiz <ben@example.org>
+To: Sam Reviewer <sam@example.net>
+Subject: Spring sale ends Sunday
+Date: Wed, 11 Dec 2024 15:15:00 +0000
+Message-ID: <sample-7@mboxeditor.example>
+X-Gmail-Labels: Promotions
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 7 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Ben Ortiz
+
+From news@northwind.example Mon Jan 27 16:15:00 2025
+From: Northwind Travel <news@northwind.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Ticket 5531: export question
+Date: Mon, 27 Jan 2025 16:15:00 +0000
+Message-ID: <sample-8@mboxeditor.example>
+X-Gmail-Labels: Inbox,Work
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_sample7"
+
+--=_sample7
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 8 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Northwind Travel
+
+--=_sample7
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Ticket 5531: export question</h2><p>Hello Sam,</p><p>This is sample message 8 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:news</code></li><li>Filter by label <code>label:work</code></li></ul><p>Best,<br>Northwind Travel</p></body></html>
+--=_sample7--
+
+From alerts@contoso.example Sat Mar 15 17:15:00 2025
+From: Contoso Bank <alerts@contoso.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Dinner on Friday?
+Date: Sat, 15 Mar 2025 17:15:00 +0000
+Message-ID: <sample-9@mboxeditor.example>
+X-Gmail-Labels: Inbox,Personal
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_sample8"
+
+--=_sample8
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 9 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Contoso Bank
+
+--=_sample8
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Dinner on Friday?</h2><p>Hello Sam,</p><p>This is sample message 9 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:alerts</code></li><li>Filter by label <code>label:personal</code></li></ul><p>Best,<br>Contoso Bank</p></body></html>
+--=_sample8--
+
+From alerts@contoso.example Sat Mar 15 17:15:00 2025
+From: Contoso Bank <alerts@contoso.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Dinner on Friday?
+Date: Sat, 15 Mar 2025 17:15:00 +0000
+Message-ID: <sample-9@mboxeditor.example>
+X-Gmail-Labels: Inbox,Personal
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_sample8"
+
+--=_sample8
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 9 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Contoso Bank
+
+--=_sample8
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Dinner on Friday?</h2><p>Hello Sam,</p><p>This is sample message 9 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:alerts</code></li><li>Filter by label <code>label:personal</code></li></ul><p>Best,<br>Contoso Bank</p></body></html>
+--=_sample8--
+
+From support@fabrikam.example Thu May 01 18:15:00 2025
+From: Fabrikam Support <support@fabrikam.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Your trip is confirmed
+Date: Thu, 01 May 2025 18:15:00 +0000
+Message-ID: <sample-10@mboxeditor.example>
+X-Gmail-Labels: Inbox,Travel
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 10 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Fabrikam Support
+
+From ava@example.com Tue Jun 17 19:15:00 2025
+From: Ava Martin <ava@example.com>
+To: Sam Reviewer <sam@example.net>
+Subject: Quarterly report draft
+Date: Tue, 17 Jun 2025 19:15:00 +0000
+Message-ID: <sample-11@mboxeditor.example>
+X-Gmail-Labels: Inbox,Work
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_sample10"
+
+--=_sample10
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 11 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Ava Martin
+
+--=_sample10
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Quarterly report draft</h2><p>Hello Sam,</p><p>This is sample message 11 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:ava</code></li><li>Filter by label <code>label:work</code></li></ul><p>Best,<br>Ava Martin</p></body></html>
+--=_sample10--
+
+From ben@example.org Sun Aug 03 20:15:00 2025
+From: Ben Ortiz <ben@example.org>
+To: Sam Reviewer <sam@example.net>
+Subject: Security notice: new sign-in
+Date: Sun, 03 Aug 2025 20:15:00 +0000
+Message-ID: <sample-12@mboxeditor.example>
+X-Gmail-Labels: Inbox,Finance
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_sample11"
+
+--=_sample11
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 12 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Ben Ortiz
+
+--=_sample11
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Security notice: new sign-in</h2><p>Hello Sam,</p><p>This is sample message 12 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:ben</code></li><li>Filter by label <code>label:finance</code></li></ul><p>Best,<br>Ben Ortiz</p></body></html>
+--=_sample11--
+
+From news@northwind.example Fri Sep 19 21:15:00 2025
+From: Northwind Travel <news@northwind.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Holiday schedule
+Date: Fri, 19 Sep 2025 21:15:00 +0000
+Message-ID: <sample-13@mboxeditor.example>
+X-Gmail-Labels: Inbox,Work
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 13 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Northwind Travel
+
+From alerts@contoso.example Wed Nov 05 22:15:00 2025
+From: Contoso Bank <alerts@contoso.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Photos from the hike
+Date: Wed, 05 Nov 2025 22:15:00 +0000
+Message-ID: <sample-14@mboxeditor.example>
+X-Gmail-Labels: Inbox,Personal
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="=_sample13"
+
+--=_sample13
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Photos from the hike</h2><p>Hello Sam,</p><p>This is sample message 14 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:alerts</code></li><li>Filter by label <code>label:personal</code></li></ul><p>Best,<br>Contoso Bank</p><p><img src="cid:photo@sample" width=120 height=120 alt="photo"></p></body></html>
+--=_sample13
+Content-Type: image/png; name="photo.png"
+Content-ID: <photo@sample>
+Content-Disposition: inline; filename="photo.png"
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAAMElEQVR4nO3NMQ0AAAgDsLlAFUrw
+/2OChKdJ/6amX0QsFovFYrFYLBaLxWKxWCy+s4kRDgy1pg/fAAAAAElFTkSuQmCC
+--=_sample13--
+
+From support@fabrikam.example Mon Dec 22 23:15:00 2025
+From: Fabrikam Support <support@fabrikam.example>
+To: Sam Reviewer <sam@example.net>
+Subject: Year in review
+Date: Mon, 22 Dec 2025 23:15:00 +0000
+Message-ID: <sample-15@mboxeditor.example>
+X-Gmail-Labels: Promotions
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=_sample14"
+
+--=_sample14
+Content-Type: text/plain; charset=utf-8
+
+Hello Sam,
+
+This is sample message 15 for trying MBOX Editor. It is entirely fictitious.
+
+Best,
+Fabrikam Support
+
+--=_sample14
+Content-Type: text/html; charset=utf-8
+
+<html><body style='font-family:-apple-system,Helvetica;font-size:15px;color:#222'><h2 style='color:#176b4d'>Year in review</h2><p>Hello Sam,</p><p>This is sample message 15 for trying <b>MBOX Editor</b>. Everything here is fictitious.</p><ul><li>Search for <code>from:support</code></li><li>Filter by label <code>label:promotions</code></li></ul><p>Best,<br>Fabrikam Support</p></body></html>
+--=_sample14--
